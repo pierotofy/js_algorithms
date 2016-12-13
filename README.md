@@ -1,6 +1,6 @@
-=== Algorithms written in Javascript ===
+# Algorithms written in Javascript
 
 Because, why not.
 
- * [Mergesort](mergesort.js)
- * [Quicksort](quicksort.js)
+ * [Quick Sort](quicksort.js)
+ * [Merge Sort](mergesort.js)
