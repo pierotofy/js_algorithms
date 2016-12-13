@@ -2,4 +2,4 @@
 
 Because, why not.
 
- * [Mergesort](mergesort.js)
+ * [Merge Sort](mergesort.js)
