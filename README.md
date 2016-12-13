@@ -1,4 +1,4 @@
-=== Algorithms written in Javascript ===
+# Algorithms written in Javascript
 
 Because, why not.
 
